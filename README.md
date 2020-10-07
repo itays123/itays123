@@ -40,14 +40,14 @@ I'm also learning to work with a team.
 ## My Skills
 
 ### Languages
-- Java ☕
-  - Android Apps 📱
-- JavaScript 📜
-  - React ⚛
-  - Vue 💚
-  - Node ✨
-  - Deno 🦕
-  - TypeScript 💙
+- Java ☕📱
+  - Android Apps 
+- JavaScript 📜⚛🦕
+  - React 
+  - Vue 
+  - Node 
+  - Deno 
+  - TypeScript 
 
 ### Databases
 - SQLite 🧮
@@ -56,6 +56,6 @@ I'm also learning to work with a team.
 - Neo4j 🎨
 
 ### And Also
-- Git ⭕
-- TDD (Mocha) ☕
-- GraphQL 🔆
+- Git 
+- TDD (Mocha)
+- GraphQL 
