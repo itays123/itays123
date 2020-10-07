@@ -29,6 +29,13 @@ Some of the amazing things I built in the past include:
 - A social media website 🤍 
 - A to-do list app ✅ 
 
+## Fun Facts About Me:
+
+- I'm a morning person
+- I prefer the summer over the winter
+- I work out 5 hours a week
+- My favorite Ben&Jerry's flavour is Chunky Monkey
+
 ## Learning & Growing 🌱
 I'm currently learning about DevOps 🐳
 - Docker 
