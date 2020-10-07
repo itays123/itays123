@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My name is Itay Schechner, a passionate programmer from Tel Aviv, the Silicon Valley of the Middle East.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itays123)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Work 🔨
 Currently, I'm schooling and taking part in the [Greenpress](https://github.com/greenpress) initiative.
 
