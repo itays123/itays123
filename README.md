@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Itay Schechner, a passionate programmer from Tel Aviv, the Silicon Valley of the Middle East.
+My name is Itay Schechner, a pssionate fullstack developer.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itays123)](https://github.com/anuraghazra/github-readme-stats)
 
