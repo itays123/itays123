@@ -20,7 +20,6 @@ My name is Itay Schechner, a passionate programmer from Tel Aviv, the Silicon Va
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itays123)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Work 🔨
-Currently, I'm schooling and taking part in the [Greenpress](https://github.com/greenpress) initiative.
 
 Some of the amazing things I built in the past include:
 - A realtime chat app 📞 
@@ -29,32 +28,19 @@ Some of the amazing things I built in the past include:
 - An online coffee shop ☕ 
 - A hotel website 🌞 
 - A social media website 🤍 
-- A to-do list app ✅ 
-
-## Fun Facts About Me:
-
-- I'm a morning person
-- I prefer the summer over the winter
-- I work out 5 hours a week
-- My favorite Ben&Jerry's flavour is Chunky Monkey
 
 ## Learning & Growing 🌱
-I'm currently learning about DevOps 🐳
-- Docker 
-- Compose 
-- Hosting Solutions.
-
-I'm also learning to work with a team.
+I'm currently learning:
+- Docker🐳
+- Java☕
 
 ## My Skills
 
 ### Languages
-- Java ☕📱
-  - Android Apps 
 - JavaScript 📜⚛🦕
-  - React 
-  - Vue 
-  - Node 
+  - React.js
+  - Vue.js
+  - Node.js
   - Deno 
   - TypeScript 
 
@@ -68,3 +54,5 @@ I'm also learning to work with a team.
 - Git 
 - TDD (Mocha)
 - GraphQL 
+- WebSocket
+- Tailwind CSS
