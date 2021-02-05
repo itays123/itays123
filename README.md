@@ -56,3 +56,4 @@ I'm currently learning:
 - GraphQL 
 - WebSocket
 - Tailwind CSS
+- Responsive Web Design
