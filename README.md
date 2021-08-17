@@ -71,4 +71,3 @@ Some of my articles in this topic [broke the internet](https://dev.to/itays123)
 - Docker
 - Google Cloud Plarform
 - TDD
-- 
