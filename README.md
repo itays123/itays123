@@ -44,26 +44,31 @@ I specialize in back-of-the-frontend React.js code with TypeScript.
 Some of my articles in this topic [broke the internet](https://dev.to/itays123) 
 
 ### Languages
-- JavaScript 📜⚛🦕
-  - React.js
-  - Some Vue.js
-  - Node.js
-  - Deno 
-  - TypeScript 
+- JavaScript and TypeScript
 - Java
-  - Object oriented programming
-  - Spring Boot
+
+### Frontend
+- React.js
+- Tailwind.css
+- Some Vue.js
+
+### Backend
+- Node.js
+- Deno
+- Spring Boot
+
+### API
+- GraphQL
+- WebSocket
 
 ### Databases
 - PostgreSQL 🐘
 - MongoDB 🍃
 - Neo4j 🎨
 
-### And Also
-- Git 
+### DevOps
+- Git
 - Docker
-- TDD (Mocha)
-- GraphQL 
-- WebSocket
-- Tailwind CSS
-- Responsive Web Design
+- Google Cloud Plarform
+- TDD
+- 
