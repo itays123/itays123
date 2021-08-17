@@ -21,6 +21,8 @@ My name is Itay Schechner, a pssionate fullstack developer.
 
 ## My Work 🔨
 
+The core of my work is my awesome online card game - Partydeck, that combined everything I had learned so far in the programming field. This project was a step forward and it leveled up my programming and project management skills.
+
 Some of the amazing things I built in the past include:
 - A realtime chat app 📞 
 - A newspaper app 📰 
@@ -31,27 +33,35 @@ Some of the amazing things I built in the past include:
 
 ## Learning & Growing 🌱
 I'm currently learning:
-- Docker🐳
-- Java☕
+- C#
 
 ## My Skills
+
+### Specialties
+
+I specialize in back-of-the-frontend React.js code with TypeScript. 
+
+Some of my articles in this topic [broke the internet](https://dev.to/itays123) 
 
 ### Languages
 - JavaScript 📜⚛🦕
   - React.js
-  - Vue.js
+  - Some Vue.js
   - Node.js
   - Deno 
   - TypeScript 
+- Java
+  - Object oriented programming
+  - Spring Boot
 
 ### Databases
-- SQLite 🧮
 - PostgreSQL 🐘
 - MongoDB 🍃
 - Neo4j 🎨
 
 ### And Also
 - Git 
+- Docker
 - TDD (Mocha)
 - GraphQL 
 - WebSocket
