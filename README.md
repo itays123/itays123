@@ -21,11 +21,11 @@ I specialize in back-of-the-frontend React.js code with TypeScript, and I find m
 
 # I'm a Growing Student with lots of experience
 
-- 🔭 I’m currently working on sharing my programming experience with the world
-- 🌱 I’m currently learning C and enhancing my React.js specialty
+- 🔭 I’m currently working on collaborating, mentoring and learning from other young developers. If you have an interesting project and you're looking for a partner, let me know! 
+- 💼I'm currently collaborating with [@itayoshri](https://github.com/itayoshri) on a Next.js project - [timetable](https://github.com/itays123/timetable) 
+- 🌱 I’m currently learning ML and Python - View my progress [here](https://github.com/itays123/DataScience) :)
 - 💬 Ask me about project managment, developer roadmap and JavaScript frameworks
 - ✨ I'm most proud of my recent project - [Partydeck](https://github.com/itays123/partydeck)
-- ⚡ Fun fact: I lift weights, do yoga and cook
 
 ### Connect with me
 
