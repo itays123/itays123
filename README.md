@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I like Object-Oriented programming as well as working with React.js and Tailwind.css.
 
-# I'm a student with a passion for learning
+# I'm a student with a drive for curiosity
 
 - 🔭 I'm currently finalizing my CS degree - watch my progress [here](https://github.com/itays123/Papers)
 - 💼Collaborated with [@itayoshri](https://github.com/itayoshri) on project [timetable](https://github.com/yanshoof-app/timetable), and collaborating with [@eitankot](https://github.com/eitankot) on project [Opinionator](https://github.com/itays123/opinionator).
@@ -30,6 +30,12 @@ I like Object-Oriented programming as well as working with React.js and Tailwind
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Popular Articles 📕
+
+- [Using WebSockets with React.js, the right way (No Library Needed)](https://dev.to/itays123/using-websockets-with-react-js-the-right-way-no-library-needed-15d0)
+- [Using the React Context API, the right way (a time saver)](https://dev.to/itays123/using-the-react-context-api-the-right-way-a-time-saver-5c3f)
+- [Using Forms In React.js, the right way (no library needed)](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj)
 
 ### Languages and Tools
 
@@ -56,12 +62,7 @@ I like Object-Oriented programming as well as working with React.js and Tailwind
 <img align="left" alt="GCP" width="26px" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png?raw=true" />
 
 <br />
-
-### Popular Articles 📕
-
-- [Using WebSockets with React.js, the right way (No Library Needed)](https://dev.to/itays123/using-websockets-with-react-js-the-right-way-no-library-needed-15d0)
-- [Using the React Context API, the right way (a time saver)](https://dev.to/itays123/using-the-react-context-api-the-right-way-a-time-saver-5c3f)
-- [Using Forms In React.js, the right way (no library needed)](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj)
+<br />
 
 [reddit]: https://reddit.com/u/itays123
 [instagram]: https://instagram.com/itayschechner
