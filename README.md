@@ -1,5 +1,3 @@
-
-
 <!--
 **itays123/itays123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,17 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey There! I'm Itay, a pssionate fullstack developer.
+### Hey There! I'm Itay, a fullstack developer.
 
-I specialize in back-of-the-frontend React.js code with TypeScript, and I find myself writing a lot about the topic.
+I like Object-Oriented programming as well as working with React.js and Tailwind.css.
 
-# I'm a Growing Student with lots of experience
+# I'm a student with a passion for learning
 
-- 🔭 I’m currently working on collaborating, mentoring and learning from other young developers. If you have an interesting project and you're looking for a partner, let me know! 
-- 💼I'm currently collaborating with [@itayoshri](https://github.com/itayoshri) on a Next.js project - [timetable](https://github.com/itays123/timetable) 
-- 🌱 I’m currently learning ML and Python - View my progress [here](https://github.com/itays123/DataScience) :)
+- 🔭 I'm currently finalizing my CS degree - watch my progress [here](https://github.com/itays123/Papers)
+- 💼Collaborated with [@itayoshri](https://github.com/itayoshri) on project [timetable](https://github.com/yanshoof-app/timetable), and collaborating with [@eitankot](https://github.com/eitankot) on project [Opinionator](https://github.com/itays123/opinionator).
 - 💬 Ask me about project managment, developer roadmap and JavaScript frameworks
-- ✨ I'm most proud of my recent project - [Partydeck](https://github.com/itays123/partydeck)
+- ✨ I'm most proud of my project [Partydeck](https://github.com/itays123/partydeck)
 
 ### Connect with me
 
@@ -59,9 +56,6 @@ I specialize in back-of-the-frontend React.js code with TypeScript, and I find m
 <img align="left" alt="GCP" width="26px" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png?raw=true" />
 
 <br />
-<br />
-
----
 
 ### Popular Articles 📕
 
@@ -69,9 +63,5 @@ I specialize in back-of-the-frontend React.js code with TypeScript, and I find m
 - [Using the React Context API, the right way (a time saver)](https://dev.to/itays123/using-the-react-context-api-the-right-way-a-time-saver-5c3f)
 - [Using Forms In React.js, the right way (no library needed)](https://dev.to/itays123/using-forms-in-react-js-the-right-way-no-library-needed-8oj)
 
----
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itays123)](https://github.com/anuraghazra/github-readme-stats)
-
 [reddit]: https://reddit.com/u/itays123
-[instagram]: https://instagram.com/itayschechner_
+[instagram]: https://instagram.com/itayschechner
