@@ -20,7 +20,7 @@ I like Object-Oriented programming as well as working with React.js and Tailwind
 # I'm a student with a drive for curiosity
 
 - 🔭 I'm currently finalizing my CS degree - watch my progress [here](https://github.com/itays123/Papers)
-- 💼Collaborated with [@itayoshri](https://github.com/itayoshri) on project [timetable](https://github.com/yanshoof-app/timetable), and collaborating with [@eitankot](https://github.com/eitankot) on project [Opinionator](https://github.com/itays123/opinionator).
+- 💼Collaborated with [@itayoshri](https://github.com/itayoshri) on project [timetable](https://github.com/yanshoof-app/timetable).
 - 💬 Ask me about project managment, developer roadmap and JavaScript frameworks
 - ✨ I'm most proud of my project [Partydeck](https://github.com/itays123/partydeck)
 
